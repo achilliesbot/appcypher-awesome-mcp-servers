@@ -348,6 +348,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
 
+- [DELPHI Oracle](https://github.com/achilliesbot/delphi) - Real-time AI-curated intelligence signals and temporal knowledge graph for the agent economy. 7 tools for signal queries, reports, entity exploration, timelines, and contradiction detection.
 <br />
 
 ## 🤝 <a name="ai-services"></a>AI Services
@@ -450,6 +451,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
 
+- [EP AgentIAM](https://github.com/achilliesbot/achillies-render) - AI agent execution safety MCP server — risk scoring, integrity checks, memory verification, and orchestration via x402 USDC micropayments on Base Mainnet. 12 tools including NoLeak, MemGuard, RiskOracle, SecureExec, and FlowCore.
 <br />
 
 ## 🔌 <a name="iot"></a>IoT
